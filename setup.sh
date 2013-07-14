@@ -12,6 +12,9 @@
 npm install -g grunt-cli
 npm install -g karma
 npm install -g bower
+npm install -g firebase      # dynamic database
+npm install -g everyauth     # authentication and auth 
+npm install -g helmet 	     # middleware secur=ity
 npm install
 bower install
 grunt watch
